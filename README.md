@@ -28,10 +28,7 @@ I'm a Full Stack Jr Developer from Blumenau, Brazil.
 
 <img src="https://github-readme-stats.vercel.app/api?username=EmilyNilsen" />
 
-  
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyNilsen)
-
+ 
   
 
 ![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@EmilyNilsen)
