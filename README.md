@@ -45,8 +45,6 @@ Sou Desenvolvedora Full Stack Jr de Blumenau, Brasil.
 <br/>
 
 ### 🌱 Atualmente estou estudando sobre...
-<br/>
-
 <span>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" />
 </span>
@@ -56,10 +54,10 @@ Sou Desenvolvedora Full Stack Jr de Blumenau, Brasil.
 <span>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" />
 </span>
-
 <br/>
 
 <p>* 📫 contacte-me: nilsen.loli.emily@gmail.com</p>
+
 <a href="https://www.linkedin.com/in/emily-nilsen-carvalho/">
 
 <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
