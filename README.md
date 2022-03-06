@@ -31,4 +31,4 @@ I'm a Full Stack Jr Developer from Blumenau, Brazil.
  
   
 
-![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@EmilyNilsen&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@EmilyNilsen)
