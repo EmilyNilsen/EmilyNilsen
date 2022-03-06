@@ -13,6 +13,8 @@ Sou Desenvolvedora Full Stack Jr de Blumenau, Brasil.
 
 <p>* 🚀 Se eu não sei, vou aprender</p>
 
+<p>* 👀 Procuro uma oportunidade para trabalhar com tecnologia </p>
+
 
 ###  Tecnologias e Ferramentas:
 
@@ -56,11 +58,6 @@ Sou Desenvolvedora Full Stack Jr de Blumenau, Brasil.
 <span>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" />
 </span>
-
-
-<br/>
-
-<p>* 👀 Procuro uma oportunidade para trabalhar com tecnologia </p>
 
 <br/>
 
