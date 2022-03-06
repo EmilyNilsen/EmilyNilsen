@@ -4,7 +4,7 @@ Sou Desenvolvedor Full Stack Jr de Blumenau, Brasil.
 
 <p># 💻 Sobre mim!</p>
 
-<p>* 💻 Sou estudante de desenvolvimento web na Trybe</p>
+<p>* 💻 Sou estudante de desenvolvimento web na Trybe💚</p>
 
   
 
@@ -12,7 +12,7 @@ Sou Desenvolvedor Full Stack Jr de Blumenau, Brasil.
 
 <p>* 🚀 Se eu não sei, vou aprender</p>
 
-### ⚡ Tecnologias e Ferramentas:
+###  Tecnologias e Ferramentas:
 
 <br />
 
@@ -63,11 +63,10 @@ Sou Desenvolvedor Full Stack Jr de Blumenau, Brasil.
 
 </a>
 
-
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=EmilyNilsen" />
 
- 
-  
+ <br/>
 
 ![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@EmilyNilsen)
