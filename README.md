@@ -1,6 +1,6 @@
-### Hi there 👋 I'm @EmilyNilsen
+###  Oi 👋 eu sou @ EmilyNilsen
 
-I'm a Full Stack Jr Developer from Blumenau, Brazil.
+Sou Desenvolvedor Full Stack Jr de Blumenau, Brasil.
 
 <a href="https://www.linkedin.com/in/emily-nilsen-carvalho/">
 
@@ -8,21 +8,21 @@ I'm a Full Stack Jr Developer from Blumenau, Brazil.
 
 </a>
 
-<p># 💻 About me !</p>
+<p># 💻 Sobre mim!</p>
 
-<p>* 💻 I'm a web development student at Trybe</p>
+<p>* 💻 Sou estudante de desenvolvimento web na Trybe</p>
 
   
 
-<p>* 💬 I love Technology!</p>
+<p>* 💬 Eu amo Tecnologia!</p>
 
-<p>* 🚀 If i dont know , i will learn it</p>
+<p>* 🚀 Se eu não sei, vou aprender</p>
 
-<p>* 🌱 I’m currently learning the most current Front-End and Back-End development technologies on the market;</p>
+<p>* 🌱 Atualmente estou aprendendo as tecnologias de desenvolvimento Front-End e Back-End mais atuais do mercado;</p>
 
-<p>* 👀 I'm looking for an opportunity to work with technology </p>
+<p>* 👀 Procuro uma oportunidade para trabalhar com tecnologia </p>
 
-<p>* 📫 contact-me: nilsen.loli.emily@gmail.com</p>
+<p>* 📫 contacte-me: nilsen.loli.emily@gmail.com</p>
 
 
 
