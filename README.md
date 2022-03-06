@@ -26,7 +26,7 @@ I'm a Full Stack Jr Developer from Blumenau, Brazil.
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=EmilyNilsen" />
+<img src="https://github-readme-stats.vercel.app/api?username=EmilyNilsen&theme=dark" />
 
  
   
