@@ -10,7 +10,9 @@ Sou Desenvolvedor Full Stack Jr de Blumenau, Brasil.
 
 <p>* 💬 Eu amo Tecnologia!</p>
 
+
 <p>* 🚀 Se eu não sei, vou aprender</p>
+
 
 ###  Tecnologias e Ferramentas:
 
@@ -39,6 +41,7 @@ Sou Desenvolvedor Full Stack Jr de Blumenau, Brasil.
   <img src="https://img.icons8.com/fluency/50/000000/docker.png"/>
 </span>
 
+<br/>
 
 ### 🌱 Atualmente estou estudando sobre...
 
@@ -55,6 +58,8 @@ Sou Desenvolvedor Full Stack Jr de Blumenau, Brasil.
 </span>
 
 <p>* 👀 Procuro uma oportunidade para trabalhar com tecnologia </p>
+
+<br/>
 
 <p>* 📫 contacte-me: nilsen.loli.emily@gmail.com</p>
 <a href="https://www.linkedin.com/in/emily-nilsen-carvalho/">
