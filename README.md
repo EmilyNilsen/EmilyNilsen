@@ -1,6 +1,6 @@
-###  Oi 👋 eu sou @ EmilyNilsenCarvalho
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Emily Nilsen Carvalho</h1>
 
-Sou Desenvolvedor Full Stack Jr de Blumenau, Brasil.
+Sou Desenvolvedora Full Stack Jr de Blumenau, Brasil.
 
 <p># 💻 Sobre mim!</p>
 
