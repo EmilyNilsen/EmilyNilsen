@@ -17,7 +17,6 @@ Sou Desenvolvedora Full Stack Jr de Blumenau, Brasil.
 
 
 ###  Tecnologias e Ferramentas:
-
 <br />
 
 <span>
@@ -46,7 +45,6 @@ Sou Desenvolvedora Full Stack Jr de Blumenau, Brasil.
 <br/>
 
 ### 🌱 Atualmente estou estudando sobre...
-
 <br/>
 
 <span>
