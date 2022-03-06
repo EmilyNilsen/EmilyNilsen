@@ -35,6 +35,9 @@ Sou Desenvolvedor Full Stack Jr de Blumenau, Brasil.
 <span>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </span>
+<span>
+  <img src="https://img.icons8.com/fluency/50/000000/docker.png"/>
+</span>
 
 
 ### 🌱 Atualmente estou estudando sobre...
@@ -50,9 +53,7 @@ Sou Desenvolvedor Full Stack Jr de Blumenau, Brasil.
 <span>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" />
 </span>
-<span>
-  <img src="https://img.icons8.com/fluency/50/000000/docker.png"/>
-</span>
+
 <p>* 👀 Procuro uma oportunidade para trabalhar com tecnologia </p>
 
 <p>* 📫 contacte-me: nilsen.loli.emily@gmail.com</p>
