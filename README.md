@@ -1,4 +1,4 @@
-###  Oi 👋 eu sou @ EmilyNilsen
+###  Oi 👋 eu sou @ EmilyNilsenCarvalho
 
 Sou Desenvolvedor Full Stack Jr de Blumenau, Brasil.
 
@@ -18,8 +18,47 @@ Sou Desenvolvedor Full Stack Jr de Blumenau, Brasil.
 
 <p>* 🚀 Se eu não sei, vou aprender</p>
 
-<p>* 🌱 Atualmente estou aprendendo as tecnologias de desenvolvimento Front-End e Back-End mais atuais do mercado;</p>
+### ⚡ Tecnologias e Ferramentas:
 
+<br />
+
+<span>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+</span>
+<span>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+</span>
+<span>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+</span>
+<span>
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
+</span>
+<span>
+  <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+</span>
+</span>
+<span>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+</span>
+
+
+### 🌱 Atualmente estou estudando sobre...
+
+<br/>
+
+<span>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" />
+</span>
+<span>
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" />
+</span>
+<span>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" />
+</span>
+<span>
+  <img src="https://img.icons8.com/fluency/50/000000/docker.png"/>
+</span>
 <p>* 👀 Procuro uma oportunidade para trabalhar com tecnologia </p>
 
 <p>* 📫 contacte-me: nilsen.loli.emily@gmail.com</p>
