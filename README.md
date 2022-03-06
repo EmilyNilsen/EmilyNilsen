@@ -26,7 +26,7 @@ Sou Desenvolvedor Full Stack Jr de Blumenau, Brasil.
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=EmilyNilsen&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=EmilyNilsen" />
 
  
   
