@@ -41,10 +41,6 @@ Sou Desenvolvedora Full Stack Jr de Blumenau, Brasil.
 <span>
   <img src="https://img.icons8.com/fluency/50/000000/docker.png"/>
 </span>
-
-<br/>
-
-### 🌱 Atualmente estou estudando sobre...
 <span>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" />
 </span>
@@ -53,6 +49,13 @@ Sou Desenvolvedora Full Stack Jr de Blumenau, Brasil.
 </span>
 <span>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" />
+</span>
+
+<br/>
+
+### 🌱 Atualmente estou estudando sobre...
+<span>
+  <img src="https://img.icons8.com/fluency/48/000000/python.png" />
 </span>
 <br/>
 
