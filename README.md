@@ -1,7 +1,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Emily Nilsen Carvalho</h1>
 
 
-- - 👩‍🎓 Sou formada no Tecnólogo de Processos Gerenciais e fiz minha transição de carreira com o <a href="https://github.com/betrybe"><b>Trybe</b></a> com o Curso de Desenvolvimento Web💚!
+- 👩‍🎓 Sou formada no Tecnólogo de Processos Gerenciais e fiz minha transição de carreira com o <a href="https://github.com/betrybe"><b>Trybe</b></a> com o Curso de Desenvolvimento Web💚!
 
 -  💬 Eu amo Tecnologia!</p>
 
