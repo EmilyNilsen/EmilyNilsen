@@ -1,19 +1,13 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Emily Nilsen Carvalho</h1>
 
-Sou Desenvolvedora Full Stack Jr de Blumenau, Brasil.
 
-<p># 💻 Sobre mim!</p>
+- - 👩‍🎓 Sou formada no Tecnólogo de Processos Gerenciais e fiz minha transição de carreira com o <a href="https://github.com/betrybe"><b>Trybe</b></a> com o Curso de Desenvolvimento Web💚!
 
-<p>* 💻 Sou estudante de desenvolvimento web na Trybe💚</p>
+-  💬 Eu amo Tecnologia!</p>
 
-  
+- 🚀 Se eu não sei, vou aprender</p>
 
-<p>* 💬 Eu amo Tecnologia!</p>
-
-
-<p>* 🚀 Se eu não sei, vou aprender</p>
-
-<p>* 👀 Procuro uma oportunidade para trabalhar com tecnologia </p>
+- 💻 Sou Software Developer no Mercado Livre<br>
 
 
 ###  Tecnologias e Ferramentas:
@@ -50,13 +44,14 @@ Sou Desenvolvedora Full Stack Jr de Blumenau, Brasil.
 <span>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" />
 </span>
+<span>
+  <img src="https://img.icons8.com/fluency/48/000000/python.png" />
+</span>
 
 <br/>
 
 ### 🌱 Atualmente estou estudando sobre...
-<span>
-  <img src="https://img.icons8.com/fluency/48/000000/python.png" />
-</span>
+<b>Java</b>
 <br/>
 
 <p>* 📫 contacte-me: nilsen.loli.emily@gmail.com</p>
